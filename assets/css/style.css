@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+html, body {
+    font-family: 'Inter', sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+#wrap {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.title {
+    text-align: center;
+}
+
+#main {
+    min-height:100%;
+    position:relative;
+    padding-bottom:100px;   /* Hauteur du pied de page */
+}
+#footer {
+    color: gray;
+    position:absolute;
+    bottom:0;  /* on le colle en bas */
+    width:100%;
+    height:100px;   /* Hauteur du pied de page */
+}

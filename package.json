@@ -1,0 +1,14 @@
+{
+  "name": "useful-sites-app",
+  "version": "0.0.1",
+  "description": "Une alternative au site web qui prend mois de ressources !!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Fake",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.2.1"
+  }
+}
