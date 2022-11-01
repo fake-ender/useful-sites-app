@@ -4,7 +4,7 @@
   "description": "Une alternative au site web qui prend mois de ressources !!",
   "main": "main.js",
   "scripts": {
-    "start": "electron-forge start",
+    "start": "electron .",
     "package": "electron-forge package",
     "make": "electron-forge make"
   },
