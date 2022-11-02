@@ -1,4 +1,1 @@
-# Alternative au site !!
-
-# Si vous avez le moindre bug contactez moi via Duscord :
-# Fake 🏅#9882
+# Application abandonné au profit de https://github.com/zelestia-net/zelestia-app
